@@ -1,0 +1,13 @@
+// HDLBits: Vectors in more detail
+// https://hdlbits.01xz.net/wiki/vector1
+
+`default_nettype none     // Disable implicit nets. Reduces some types of bugs.
+module top_module( 
+    input wire [15:0] in,
+    output wire [7:0] out_hi,
+    output wire [7:0] out_lo );
+    
+    assign out_lo = in[7:0];
+    assign out_hi = in[15:8];
+
+endmodule

@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 10 / 182**
+**Uploaded: 20 / 182**
 
 ## Getting Started
 
@@ -23,3 +23,23 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 | 8 | XNOR gate | [xnorgate](https://hdlbits.01xz.net/wiki/xnorgate) | [xnorgate.v](02_verilog_language/01_basics/xnorgate.v) |
 | 9 | Declaring wires | [wire_decl](https://hdlbits.01xz.net/wiki/wire_decl) | [wire_decl.v](02_verilog_language/01_basics/wire_decl.v) |
 | 10 | 7458 chip | [7458](https://hdlbits.01xz.net/wiki/7458) | [7458.v](02_verilog_language/01_basics/7458.v) |
+
+## Verilog Language / Vectors
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 11 | Vectors | [vector0](https://hdlbits.01xz.net/wiki/vector0) | [vector0.v](02_verilog_language/02_vectors/vector0.v) |
+| 12 | Vectors in more detail | [vector1](https://hdlbits.01xz.net/wiki/vector1) | [vector1.v](02_verilog_language/02_vectors/vector1.v) |
+| 13 | Vector part select | [vector2](https://hdlbits.01xz.net/wiki/vector2) | [vector2.v](02_verilog_language/02_vectors/vector2.v) |
+| 14 | Bitwise operators | [vectorgates](https://hdlbits.01xz.net/wiki/vectorgates) | [vectorgates.v](02_verilog_language/02_vectors/vectorgates.v) |
+| 15 | Four-input gates | [gates4](https://hdlbits.01xz.net/wiki/gates4) | [gates4.v](02_verilog_language/02_vectors/gates4.v) |
+| 16 | Vector concatenation operator | [vector3](https://hdlbits.01xz.net/wiki/vector3) | [vector3.v](02_verilog_language/02_vectors/vector3.v) |
+| 17 | Vector reversal 1 | [vectorr](https://hdlbits.01xz.net/wiki/vectorr) | [vectorr.v](02_verilog_language/02_vectors/vectorr.v) |
+| 18 | Replication operator | [vector4](https://hdlbits.01xz.net/wiki/vector4) | [vector4.v](02_verilog_language/02_vectors/vector4.v) |
+| 19 | More replication | [vector5](https://hdlbits.01xz.net/wiki/vector5) | [vector5.v](02_verilog_language/02_vectors/vector5.v) |
+
+## Verilog Language / Modules: Hierarchy
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 20 | Modules | [module](https://hdlbits.01xz.net/wiki/module) | [module.v](02_verilog_language/03_modules_hierarchy/module.v) |
