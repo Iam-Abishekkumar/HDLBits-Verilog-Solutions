@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 30 / 182**
+**Uploaded: 40 / 182**
 
 ## Getting Started
 
@@ -58,3 +58,18 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 |---|---------|---------|----------|
 | 29 | Always blocks (combinational) | [alwaysblock1](https://hdlbits.01xz.net/wiki/alwaysblock1) | [alwaysblock1.v](02_verilog_language/04_procedures/alwaysblock1.v) |
 | 30 | Always blocks (clocked) | [alwaysblock2](https://hdlbits.01xz.net/wiki/alwaysblock2) | [alwaysblock2.v](02_verilog_language/04_procedures/alwaysblock2.v) |
+| 31 | If statement | [always_if](https://hdlbits.01xz.net/wiki/always_if) | [always_if.v](02_verilog_language/04_procedures/always_if.v) |
+| 32 | If statement latches | [always_if2](https://hdlbits.01xz.net/wiki/always_if2) | [always_if2.v](02_verilog_language/04_procedures/always_if2.v) |
+| 33 | Case statement | [always_case](https://hdlbits.01xz.net/wiki/always_case) | [always_case.v](02_verilog_language/04_procedures/always_case.v) |
+| 34 | Priority encoder | [always_case2](https://hdlbits.01xz.net/wiki/always_case2) | [always_case2.v](02_verilog_language/04_procedures/always_case2.v) |
+| 35 | Priority encoder with casez | [always_casez](https://hdlbits.01xz.net/wiki/always_casez) | [always_casez.v](02_verilog_language/04_procedures/always_casez.v) |
+| 36 | Avoiding latches | [always_nolatches](https://hdlbits.01xz.net/wiki/always_nolatches) | [always_nolatches.v](02_verilog_language/04_procedures/always_nolatches.v) |
+
+## Verilog Language / More Verilog Features
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 37 | Conditional ternary operator | [conditional](https://hdlbits.01xz.net/wiki/conditional) | [conditional.v](02_verilog_language/05_more_verilog_features/conditional.v) |
+| 38 | Reduction operators | [reduction](https://hdlbits.01xz.net/wiki/reduction) | [reduction.v](02_verilog_language/05_more_verilog_features/reduction.v) |
+| 39 | Reduction: Even wider gates | [gates100](https://hdlbits.01xz.net/wiki/gates100) | [gates100.v](02_verilog_language/05_more_verilog_features/gates100.v) |
+| 40 | Combinational for-loop: Vector reversal 2 | [vector100r](https://hdlbits.01xz.net/wiki/vector100r) | [vector100r.v](02_verilog_language/05_more_verilog_features/vector100r.v) |
