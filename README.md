@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 20 / 182**
+**Uploaded: 30 / 182**
 
 ## Getting Started
 
@@ -43,3 +43,18 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 | # | Problem | HDLBits | Solution |
 |---|---------|---------|----------|
 | 20 | Modules | [module](https://hdlbits.01xz.net/wiki/module) | [module.v](02_verilog_language/03_modules_hierarchy/module.v) |
+| 21 | Connecting ports by position | [module_pos](https://hdlbits.01xz.net/wiki/module_pos) | [module_pos.v](02_verilog_language/03_modules_hierarchy/module_pos.v) |
+| 22 | Connecting ports by name | [module_name](https://hdlbits.01xz.net/wiki/module_name) | [module_name.v](02_verilog_language/03_modules_hierarchy/module_name.v) |
+| 23 | Three modules | [module_shift](https://hdlbits.01xz.net/wiki/module_shift) | [module_shift.v](02_verilog_language/03_modules_hierarchy/module_shift.v) |
+| 24 | Modules and vectors | [module_shift8](https://hdlbits.01xz.net/wiki/module_shift8) | [module_shift8.v](02_verilog_language/03_modules_hierarchy/module_shift8.v) |
+| 25 | Adder 1 | [module_add](https://hdlbits.01xz.net/wiki/module_add) | [module_add.v](02_verilog_language/03_modules_hierarchy/module_add.v) |
+| 26 | Adder 2 | [module_fadd](https://hdlbits.01xz.net/wiki/module_fadd) | [module_fadd.v](02_verilog_language/03_modules_hierarchy/module_fadd.v) |
+| 27 | Carry-select adder | [module_cseladd](https://hdlbits.01xz.net/wiki/module_cseladd) | [module_cseladd.v](02_verilog_language/03_modules_hierarchy/module_cseladd.v) |
+| 28 | Adder-subtractor | [module_addsub](https://hdlbits.01xz.net/wiki/module_addsub) | [module_addsub.v](02_verilog_language/03_modules_hierarchy/module_addsub.v) |
+
+## Verilog Language / Procedures
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 29 | Always blocks (combinational) | [alwaysblock1](https://hdlbits.01xz.net/wiki/alwaysblock1) | [alwaysblock1.v](02_verilog_language/04_procedures/alwaysblock1.v) |
+| 30 | Always blocks (clocked) | [alwaysblock2](https://hdlbits.01xz.net/wiki/alwaysblock2) | [alwaysblock2.v](02_verilog_language/04_procedures/alwaysblock2.v) |
