@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 40 / 182**
+**Uploaded: 50 / 182**
 
 ## Getting Started
 
@@ -73,3 +73,18 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 | 38 | Reduction operators | [reduction](https://hdlbits.01xz.net/wiki/reduction) | [reduction.v](02_verilog_language/05_more_verilog_features/reduction.v) |
 | 39 | Reduction: Even wider gates | [gates100](https://hdlbits.01xz.net/wiki/gates100) | [gates100.v](02_verilog_language/05_more_verilog_features/gates100.v) |
 | 40 | Combinational for-loop: Vector reversal 2 | [vector100r](https://hdlbits.01xz.net/wiki/vector100r) | [vector100r.v](02_verilog_language/05_more_verilog_features/vector100r.v) |
+| 41 | Combinational for-loop: 255-bit population count | [popcount255](https://hdlbits.01xz.net/wiki/popcount255) | [popcount255.v](02_verilog_language/05_more_verilog_features/popcount255.v) |
+| 42 | Generate for-loop: 100-bit binary adder 2 | [adder100i](https://hdlbits.01xz.net/wiki/adder100i) | [adder100i.v](02_verilog_language/05_more_verilog_features/adder100i.v) |
+| 43 | Generate for-loop: 100-digit BCD adder | [bcdadd100](https://hdlbits.01xz.net/wiki/bcdadd100) | [bcdadd100.v](02_verilog_language/05_more_verilog_features/bcdadd100.v) |
+
+## Circuits / Combinational Logic / Basic Gates
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 44 | Wire | [exams/m2014_q4h](https://hdlbits.01xz.net/wiki/exams/m2014_q4h) | [exams_m2014_q4h.v](03_circuits/01_combinational_logic/01_basic_gates/exams_m2014_q4h.v) |
+| 45 | GND | [exams/m2014_q4i](https://hdlbits.01xz.net/wiki/exams/m2014_q4i) | [exams_m2014_q4i.v](03_circuits/01_combinational_logic/01_basic_gates/exams_m2014_q4i.v) |
+| 46 | NOR | [exams/m2014_q4e](https://hdlbits.01xz.net/wiki/exams/m2014_q4e) | [exams_m2014_q4e.v](03_circuits/01_combinational_logic/01_basic_gates/exams_m2014_q4e.v) |
+| 47 | Another gate | [exams/m2014_q4f](https://hdlbits.01xz.net/wiki/exams/m2014_q4f) | [exams_m2014_q4f.v](03_circuits/01_combinational_logic/01_basic_gates/exams_m2014_q4f.v) |
+| 48 | Two gates | [exams/m2014_q4g](https://hdlbits.01xz.net/wiki/exams/m2014_q4g) | [exams_m2014_q4g.v](03_circuits/01_combinational_logic/01_basic_gates/exams_m2014_q4g.v) |
+| 49 | More logic gates | [gates](https://hdlbits.01xz.net/wiki/gates) | [gates.v](03_circuits/01_combinational_logic/01_basic_gates/gates.v) |
+| 50 | 7420 chip | [7420](https://hdlbits.01xz.net/wiki/7420) | [7420.v](03_circuits/01_combinational_logic/01_basic_gates/7420.v) |
