@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 50 / 182**
+**Uploaded: 60 / 182**
 
 ## Getting Started
 
@@ -88,3 +88,13 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 | 48 | Two gates | [exams/m2014_q4g](https://hdlbits.01xz.net/wiki/exams/m2014_q4g) | [exams_m2014_q4g.v](03_circuits/01_combinational_logic/01_basic_gates/exams_m2014_q4g.v) |
 | 49 | More logic gates | [gates](https://hdlbits.01xz.net/wiki/gates) | [gates.v](03_circuits/01_combinational_logic/01_basic_gates/gates.v) |
 | 50 | 7420 chip | [7420](https://hdlbits.01xz.net/wiki/7420) | [7420.v](03_circuits/01_combinational_logic/01_basic_gates/7420.v) |
+| 51 | Truth tables | [truthtable1](https://hdlbits.01xz.net/wiki/truthtable1) | [truthtable1.v](03_circuits/01_combinational_logic/01_basic_gates/truthtable1.v) |
+| 52 | Two-bit equality | [mt2015_eq2](https://hdlbits.01xz.net/wiki/mt2015_eq2) | [mt2015_eq2.v](03_circuits/01_combinational_logic/01_basic_gates/mt2015_eq2.v) |
+| 53 | Simple circuit A | [mt2015_q4a](https://hdlbits.01xz.net/wiki/mt2015_q4a) | [mt2015_q4a.v](03_circuits/01_combinational_logic/01_basic_gates/mt2015_q4a.v) |
+| 54 | Simple circuit B | [mt2015_q4b](https://hdlbits.01xz.net/wiki/mt2015_q4b) | [mt2015_q4b.v](03_circuits/01_combinational_logic/01_basic_gates/mt2015_q4b.v) |
+| 55 | Combine circuits A and B | [mt2015_q4](https://hdlbits.01xz.net/wiki/mt2015_q4) | [mt2015_q4.v](03_circuits/01_combinational_logic/01_basic_gates/mt2015_q4.v) |
+| 56 | Ring or vibrate? | [ringer](https://hdlbits.01xz.net/wiki/ringer) | [ringer.v](03_circuits/01_combinational_logic/01_basic_gates/ringer.v) |
+| 57 | Thermostat | [thermostat](https://hdlbits.01xz.net/wiki/thermostat) | [thermostat.v](03_circuits/01_combinational_logic/01_basic_gates/thermostat.v) |
+| 58 | 3-bit population count | [popcount3](https://hdlbits.01xz.net/wiki/popcount3) | [popcount3.v](03_circuits/01_combinational_logic/01_basic_gates/popcount3.v) |
+| 59 | Gates and vectors | [gatesv](https://hdlbits.01xz.net/wiki/gatesv) | [gatesv.v](03_circuits/01_combinational_logic/01_basic_gates/gatesv.v) |
+| 60 | Even longer vectors | [gatesv100](https://hdlbits.01xz.net/wiki/gatesv100) | [gatesv100.v](03_circuits/01_combinational_logic/01_basic_gates/gatesv100.v) |
