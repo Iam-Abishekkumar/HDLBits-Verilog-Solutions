@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 60 / 182**
+**Uploaded: 70 / 182**
 
 ## Getting Started
 
@@ -98,3 +98,23 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 | 58 | 3-bit population count | [popcount3](https://hdlbits.01xz.net/wiki/popcount3) | [popcount3.v](03_circuits/01_combinational_logic/01_basic_gates/popcount3.v) |
 | 59 | Gates and vectors | [gatesv](https://hdlbits.01xz.net/wiki/gatesv) | [gatesv.v](03_circuits/01_combinational_logic/01_basic_gates/gatesv.v) |
 | 60 | Even longer vectors | [gatesv100](https://hdlbits.01xz.net/wiki/gatesv100) | [gatesv100.v](03_circuits/01_combinational_logic/01_basic_gates/gatesv100.v) |
+
+## Circuits / Combinational Logic / Multiplexers
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 61 | 2-to-1 multiplexer | [mux2to1](https://hdlbits.01xz.net/wiki/mux2to1) | [mux2to1.v](03_circuits/01_combinational_logic/02_multiplexers/mux2to1.v) |
+| 62 | 2-to-1 bus multiplexer | [mux2to1v](https://hdlbits.01xz.net/wiki/mux2to1v) | [mux2to1v.v](03_circuits/01_combinational_logic/02_multiplexers/mux2to1v.v) |
+| 63 | 9-to-1 multiplexer | [mux9to1v](https://hdlbits.01xz.net/wiki/mux9to1v) | [mux9to1v.v](03_circuits/01_combinational_logic/02_multiplexers/mux9to1v.v) |
+| 64 | 256-to-1 multiplexer | [mux256to1](https://hdlbits.01xz.net/wiki/mux256to1) | [mux256to1.v](03_circuits/01_combinational_logic/02_multiplexers/mux256to1.v) |
+| 65 | 256-to-1 4-bit multiplexer | [mux256to1v](https://hdlbits.01xz.net/wiki/mux256to1v) | [mux256to1v.v](03_circuits/01_combinational_logic/02_multiplexers/mux256to1v.v) |
+
+## Circuits / Combinational Logic / Arithmetic Circuits
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 66 | Half adder | [hadd](https://hdlbits.01xz.net/wiki/hadd) | [hadd.v](03_circuits/01_combinational_logic/03_arithmetic_circuits/hadd.v) |
+| 67 | Full adder | [fadd](https://hdlbits.01xz.net/wiki/fadd) | [fadd.v](03_circuits/01_combinational_logic/03_arithmetic_circuits/fadd.v) |
+| 68 | 3-bit binary adder | [adder3](https://hdlbits.01xz.net/wiki/adder3) | [adder3.v](03_circuits/01_combinational_logic/03_arithmetic_circuits/adder3.v) |
+| 69 | Adder | [exams/m2014_q4j](https://hdlbits.01xz.net/wiki/exams/m2014_q4j) | [exams_m2014_q4j.v](03_circuits/01_combinational_logic/03_arithmetic_circuits/exams_m2014_q4j.v) |
+| 70 | Signed addition overflow | [exams/ece241_2014_q1c](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q1c) | [exams_ece241_2014_q1c.v](03_circuits/01_combinational_logic/03_arithmetic_circuits/exams_ece241_2014_q1c.v) |
