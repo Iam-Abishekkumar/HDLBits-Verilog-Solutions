@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 70 / 182**
+**Uploaded: 80 / 182**
 
 ## Getting Started
 
@@ -118,3 +118,18 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 | 68 | 3-bit binary adder | [adder3](https://hdlbits.01xz.net/wiki/adder3) | [adder3.v](03_circuits/01_combinational_logic/03_arithmetic_circuits/adder3.v) |
 | 69 | Adder | [exams/m2014_q4j](https://hdlbits.01xz.net/wiki/exams/m2014_q4j) | [exams_m2014_q4j.v](03_circuits/01_combinational_logic/03_arithmetic_circuits/exams_m2014_q4j.v) |
 | 70 | Signed addition overflow | [exams/ece241_2014_q1c](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q1c) | [exams_ece241_2014_q1c.v](03_circuits/01_combinational_logic/03_arithmetic_circuits/exams_ece241_2014_q1c.v) |
+| 71 | 100-bit binary adder | [adder100](https://hdlbits.01xz.net/wiki/adder100) | [adder100.v](03_circuits/01_combinational_logic/03_arithmetic_circuits/adder100.v) |
+| 72 | 4-digit BCD adder | [bcdadd4](https://hdlbits.01xz.net/wiki/bcdadd4) | [bcdadd4.v](03_circuits/01_combinational_logic/03_arithmetic_circuits/bcdadd4.v) |
+
+## Circuits / Combinational Logic / Karnaugh Map to Circuit
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 73 | 3-variable | [kmap1](https://hdlbits.01xz.net/wiki/kmap1) | [kmap1.v](03_circuits/01_combinational_logic/04_karnaugh_map_to_circuit/kmap1.v) |
+| 74 | 4-variable | [kmap2](https://hdlbits.01xz.net/wiki/kmap2) | [kmap2.v](03_circuits/01_combinational_logic/04_karnaugh_map_to_circuit/kmap2.v) |
+| 75 | 4-variable | [kmap3](https://hdlbits.01xz.net/wiki/kmap3) | [kmap3.v](03_circuits/01_combinational_logic/04_karnaugh_map_to_circuit/kmap3.v) |
+| 76 | 4-variable | [kmap4](https://hdlbits.01xz.net/wiki/kmap4) | [kmap4.v](03_circuits/01_combinational_logic/04_karnaugh_map_to_circuit/kmap4.v) |
+| 77 | Minimum SOP and POS | [exams/ece241_2013_q2](https://hdlbits.01xz.net/wiki/exams/ece241_2013_q2) | [exams_ece241_2013_q2.v](03_circuits/01_combinational_logic/04_karnaugh_map_to_circuit/exams_ece241_2013_q2.v) |
+| 78 | Karnaugh map | [exams/m2014_q3](https://hdlbits.01xz.net/wiki/exams/m2014_q3) | [exams_m2014_q3.v](03_circuits/01_combinational_logic/04_karnaugh_map_to_circuit/exams_m2014_q3.v) |
+| 79 | Karnaugh map | [exams/2012_q1g](https://hdlbits.01xz.net/wiki/exams/2012_q1g) | [exams_2012_q1g.v](03_circuits/01_combinational_logic/04_karnaugh_map_to_circuit/exams_2012_q1g.v) |
+| 80 | K-map implemented with a multiplexer | [exams/ece241_2014_q3](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q3) | [exams_ece241_2014_q3.v](03_circuits/01_combinational_logic/04_karnaugh_map_to_circuit/exams_ece241_2014_q3.v) |
