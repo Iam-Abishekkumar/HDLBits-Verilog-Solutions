@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 100 / 182**
+**Uploaded: 110 / 182**
 
 ## Getting Started
 
@@ -163,3 +163,18 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 |---|---------|---------|----------|
 | 99 | Four-bit binary counter | [count15](https://hdlbits.01xz.net/wiki/count15) | [count15.v](03_circuits/02_sequential_logic/02_counters/count15.v) |
 | 100 | Decade counter | [count10](https://hdlbits.01xz.net/wiki/count10) | [count10.v](03_circuits/02_sequential_logic/02_counters/count10.v) |
+| 101 | Decade counter again | [count1to10](https://hdlbits.01xz.net/wiki/count1to10) | [count1to10.v](03_circuits/02_sequential_logic/02_counters/count1to10.v) |
+| 102 | Slow decade counter | [countslow](https://hdlbits.01xz.net/wiki/countslow) | [countslow.v](03_circuits/02_sequential_logic/02_counters/countslow.v) |
+| 103 | Counter 1-12 | [exams/ece241_2014_q7a](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q7a) | [exams_ece241_2014_q7a.v](03_circuits/02_sequential_logic/02_counters/exams_ece241_2014_q7a.v) |
+| 104 | Counter 1000 | [exams/ece241_2014_q7b](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q7b) | [exams_ece241_2014_q7b.v](03_circuits/02_sequential_logic/02_counters/exams_ece241_2014_q7b.v) |
+| 105 | 4-digit decimal counter | [countbcd](https://hdlbits.01xz.net/wiki/countbcd) | [countbcd.v](03_circuits/02_sequential_logic/02_counters/countbcd.v) |
+| 106 | 12-hour clock | [count_clock](https://hdlbits.01xz.net/wiki/count_clock) | [count_clock.v](03_circuits/02_sequential_logic/02_counters/count_clock.v) |
+
+## Circuits / Sequential Logic / Shift Registers
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 107 | 4-bit shift register | [shift4](https://hdlbits.01xz.net/wiki/shift4) | [shift4.v](03_circuits/02_sequential_logic/03_shift_registers/shift4.v) |
+| 108 | Left/right rotator | [rotate100](https://hdlbits.01xz.net/wiki/rotate100) | [rotate100.v](03_circuits/02_sequential_logic/03_shift_registers/rotate100.v) |
+| 109 | Left/right arithmetic shift by 1 or 8 | [shift18](https://hdlbits.01xz.net/wiki/shift18) | [shift18.v](03_circuits/02_sequential_logic/03_shift_registers/shift18.v) |
+| 110 | 5-bit LFSR | [lfsr5](https://hdlbits.01xz.net/wiki/lfsr5) | [lfsr5.v](03_circuits/02_sequential_logic/03_shift_registers/lfsr5.v) |
