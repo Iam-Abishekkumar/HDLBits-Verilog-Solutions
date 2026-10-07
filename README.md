@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 90 / 182**
+**Uploaded: 100 / 182**
 
 ## Getting Started
 
@@ -148,3 +148,18 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 | 88 | DFF | [exams/m2014_q4b](https://hdlbits.01xz.net/wiki/exams/m2014_q4b) | [exams_m2014_q4b.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/exams_m2014_q4b.v) |
 | 89 | DFF | [exams/m2014_q4c](https://hdlbits.01xz.net/wiki/exams/m2014_q4c) | [exams_m2014_q4c.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/exams_m2014_q4c.v) |
 | 90 | DFF+gate | [exams/m2014_q4d](https://hdlbits.01xz.net/wiki/exams/m2014_q4d) | [exams_m2014_q4d.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/exams_m2014_q4d.v) |
+| 91 | Mux and DFF | [mt2015_muxdff](https://hdlbits.01xz.net/wiki/mt2015_muxdff) | [mt2015_muxdff.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/mt2015_muxdff.v) |
+| 92 | Mux and DFF | [exams/2014_q4a](https://hdlbits.01xz.net/wiki/exams/2014_q4a) | [exams_2014_q4a.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/exams_2014_q4a.v) |
+| 93 | DFFs and gates | [exams/ece241_2014_q4](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q4) | [exams_ece241_2014_q4.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/exams_ece241_2014_q4.v) |
+| 94 | Create circuit from truth table | [exams/ece241_2013_q7](https://hdlbits.01xz.net/wiki/exams/ece241_2013_q7) | [exams_ece241_2013_q7.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/exams_ece241_2013_q7.v) |
+| 95 | Detect an edge | [edgedetect](https://hdlbits.01xz.net/wiki/edgedetect) | [edgedetect.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/edgedetect.v) |
+| 96 | Detect both edges | [edgedetect2](https://hdlbits.01xz.net/wiki/edgedetect2) | [edgedetect2.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/edgedetect2.v) |
+| 97 | Edge capture register | [edgecapture](https://hdlbits.01xz.net/wiki/edgecapture) | [edgecapture.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/edgecapture.v) |
+| 98 | Dual-edge triggered flip-flop | [dualedge](https://hdlbits.01xz.net/wiki/dualedge) | [dualedge.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/dualedge.v) |
+
+## Circuits / Sequential Logic / Counters
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 99 | Four-bit binary counter | [count15](https://hdlbits.01xz.net/wiki/count15) | [count15.v](03_circuits/02_sequential_logic/02_counters/count15.v) |
+| 100 | Decade counter | [count10](https://hdlbits.01xz.net/wiki/count10) | [count10.v](03_circuits/02_sequential_logic/02_counters/count10.v) |
