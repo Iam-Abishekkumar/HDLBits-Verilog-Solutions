@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 80 / 182**
+**Uploaded: 90 / 182**
 
 ## Getting Started
 
@@ -133,3 +133,18 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 | 78 | Karnaugh map | [exams/m2014_q3](https://hdlbits.01xz.net/wiki/exams/m2014_q3) | [exams_m2014_q3.v](03_circuits/01_combinational_logic/04_karnaugh_map_to_circuit/exams_m2014_q3.v) |
 | 79 | Karnaugh map | [exams/2012_q1g](https://hdlbits.01xz.net/wiki/exams/2012_q1g) | [exams_2012_q1g.v](03_circuits/01_combinational_logic/04_karnaugh_map_to_circuit/exams_2012_q1g.v) |
 | 80 | K-map implemented with a multiplexer | [exams/ece241_2014_q3](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q3) | [exams_ece241_2014_q3.v](03_circuits/01_combinational_logic/04_karnaugh_map_to_circuit/exams_ece241_2014_q3.v) |
+
+## Circuits / Sequential Logic / Latches and Flip-Flops
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 81 | D flip-flop | [dff](https://hdlbits.01xz.net/wiki/dff) | [dff.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/dff.v) |
+| 82 | D flip-flops | [dff8](https://hdlbits.01xz.net/wiki/dff8) | [dff8.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/dff8.v) |
+| 83 | DFF with reset | [dff8r](https://hdlbits.01xz.net/wiki/dff8r) | [dff8r.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/dff8r.v) |
+| 84 | DFF with reset value | [dff8p](https://hdlbits.01xz.net/wiki/dff8p) | [dff8p.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/dff8p.v) |
+| 85 | DFF with asynchronous reset | [dff8ar](https://hdlbits.01xz.net/wiki/dff8ar) | [dff8ar.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/dff8ar.v) |
+| 86 | DFF with byte enable | [dff16e](https://hdlbits.01xz.net/wiki/dff16e) | [dff16e.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/dff16e.v) |
+| 87 | D Latch | [exams/m2014_q4a](https://hdlbits.01xz.net/wiki/exams/m2014_q4a) | [exams_m2014_q4a.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/exams_m2014_q4a.v) |
+| 88 | DFF | [exams/m2014_q4b](https://hdlbits.01xz.net/wiki/exams/m2014_q4b) | [exams_m2014_q4b.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/exams_m2014_q4b.v) |
+| 89 | DFF | [exams/m2014_q4c](https://hdlbits.01xz.net/wiki/exams/m2014_q4c) | [exams_m2014_q4c.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/exams_m2014_q4c.v) |
+| 90 | DFF+gate | [exams/m2014_q4d](https://hdlbits.01xz.net/wiki/exams/m2014_q4d) | [exams_m2014_q4d.v](03_circuits/02_sequential_logic/01_latches_and_flip_flops/exams_m2014_q4d.v) |
