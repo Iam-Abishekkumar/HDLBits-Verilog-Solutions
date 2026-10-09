@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 140 / 182**
+**Uploaded: 150 / 182**
 
 ## Getting Started
 
@@ -218,3 +218,13 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 | 138 | Sequence recognition | [fsm_hdlc](https://hdlbits.01xz.net/wiki/fsm_hdlc) | [fsm_hdlc.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm_hdlc.v) |
 | 139 | Q8: Design a Mealy FSM | [exams/ece241_2013_q8](https://hdlbits.01xz.net/wiki/exams/ece241_2013_q8) | [exams_ece241_2013_q8.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_ece241_2013_q8.v) |
 | 140 | Q5a: Serial two's complementer (Moore FSM) | [exams/ece241_2014_q5a](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q5a) | [exams_ece241_2014_q5a.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_ece241_2014_q5a.v) |
+| 141 | Q5b: Serial two's complementer (Mealy FSM) | [exams/ece241_2014_q5b](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q5b) | [exams_ece241_2014_q5b.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_ece241_2014_q5b.v) |
+| 142 | Q3a: FSM | [exams/2014_q3fsm](https://hdlbits.01xz.net/wiki/exams/2014_q3fsm) | [exams_2014_q3fsm.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_2014_q3fsm.v) |
+| 143 | Q3b: FSM | [exams/2014_q3bfsm](https://hdlbits.01xz.net/wiki/exams/2014_q3bfsm) | [exams_2014_q3bfsm.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_2014_q3bfsm.v) |
+| 144 | Q3c: FSM logic | [exams/2014_q3c](https://hdlbits.01xz.net/wiki/exams/2014_q3c) | [exams_2014_q3c.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_2014_q3c.v) |
+| 145 | Q6b: FSM next-state logic | [exams/m2014_q6b](https://hdlbits.01xz.net/wiki/exams/m2014_q6b) | [exams_m2014_q6b.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_m2014_q6b.v) |
+| 146 | Q6c: FSM one-hot next-state logic | [exams/m2014_q6c](https://hdlbits.01xz.net/wiki/exams/m2014_q6c) | [exams_m2014_q6c.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_m2014_q6c.v) |
+| 147 | Q6: FSM | [exams/m2014_q6](https://hdlbits.01xz.net/wiki/exams/m2014_q6) | [exams_m2014_q6.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_m2014_q6.v) |
+| 148 | Q2a: FSM | [exams/2012_q2fsm](https://hdlbits.01xz.net/wiki/exams/2012_q2fsm) | [exams_2012_q2fsm.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_2012_q2fsm.v) |
+| 149 | Q2b: One-hot FSM equations | [exams/2012_q2b](https://hdlbits.01xz.net/wiki/exams/2012_q2b) | [exams_2012_q2b.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_2012_q2b.v) |
+| 150 | Q2a: FSM | [exams/2013_q2afsm](https://hdlbits.01xz.net/wiki/exams/2013_q2afsm) | [exams_2013_q2afsm.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_2013_q2afsm.v) |
