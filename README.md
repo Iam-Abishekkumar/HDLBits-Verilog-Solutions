@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 110 / 182**
+**Uploaded: 120 / 182**
 
 ## Getting Started
 
@@ -178,3 +178,23 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 | 108 | Left/right rotator | [rotate100](https://hdlbits.01xz.net/wiki/rotate100) | [rotate100.v](03_circuits/02_sequential_logic/03_shift_registers/rotate100.v) |
 | 109 | Left/right arithmetic shift by 1 or 8 | [shift18](https://hdlbits.01xz.net/wiki/shift18) | [shift18.v](03_circuits/02_sequential_logic/03_shift_registers/shift18.v) |
 | 110 | 5-bit LFSR | [lfsr5](https://hdlbits.01xz.net/wiki/lfsr5) | [lfsr5.v](03_circuits/02_sequential_logic/03_shift_registers/lfsr5.v) |
+| 111 | 3-bit LFSR | [mt2015_lfsr](https://hdlbits.01xz.net/wiki/mt2015_lfsr) | [mt2015_lfsr.v](03_circuits/02_sequential_logic/03_shift_registers/mt2015_lfsr.v) |
+| 112 | 32-bit LFSR | [lfsr32](https://hdlbits.01xz.net/wiki/lfsr32) | [lfsr32.v](03_circuits/02_sequential_logic/03_shift_registers/lfsr32.v) |
+| 113 | Shift register | [exams/m2014_q4k](https://hdlbits.01xz.net/wiki/exams/m2014_q4k) | [exams_m2014_q4k.v](03_circuits/02_sequential_logic/03_shift_registers/exams_m2014_q4k.v) |
+| 114 | Shift register | [exams/2014_q4b](https://hdlbits.01xz.net/wiki/exams/2014_q4b) | [exams_2014_q4b.v](03_circuits/02_sequential_logic/03_shift_registers/exams_2014_q4b.v) |
+| 115 | 3-input LUT | [exams/ece241_2013_q12](https://hdlbits.01xz.net/wiki/exams/ece241_2013_q12) | [exams_ece241_2013_q12.v](03_circuits/02_sequential_logic/03_shift_registers/exams_ece241_2013_q12.v) |
+
+## Circuits / Sequential Logic / More Circuits
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 116 | Rule 90 | [rule90](https://hdlbits.01xz.net/wiki/rule90) | [rule90.v](03_circuits/02_sequential_logic/04_more_circuits/rule90.v) |
+| 117 | Rule 110 | [rule110](https://hdlbits.01xz.net/wiki/rule110) | [rule110.v](03_circuits/02_sequential_logic/04_more_circuits/rule110.v) |
+| 118 | Conway's Game of Life 16x16 | [conwaylife](https://hdlbits.01xz.net/wiki/conwaylife) | [conwaylife.v](03_circuits/02_sequential_logic/04_more_circuits/conwaylife.v) |
+
+## Circuits / Sequential Logic / Finite State Machines
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 119 | Simple FSM 1 (asynchronous reset) | [fsm1](https://hdlbits.01xz.net/wiki/fsm1) | [fsm1.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm1.v) |
+| 120 | Simple FSM 1 (synchronous reset) | [fsm1s](https://hdlbits.01xz.net/wiki/fsm1s) | [fsm1s.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm1s.v) |
