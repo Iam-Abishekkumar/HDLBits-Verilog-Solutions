@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 120 / 182**
+**Uploaded: 130 / 182**
 
 ## Getting Started
 
@@ -198,3 +198,13 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 |---|---------|---------|----------|
 | 119 | Simple FSM 1 (asynchronous reset) | [fsm1](https://hdlbits.01xz.net/wiki/fsm1) | [fsm1.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm1.v) |
 | 120 | Simple FSM 1 (synchronous reset) | [fsm1s](https://hdlbits.01xz.net/wiki/fsm1s) | [fsm1s.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm1s.v) |
+| 121 | Simple FSM 2 (asynchronous reset) | [fsm2](https://hdlbits.01xz.net/wiki/fsm2) | [fsm2.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm2.v) |
+| 122 | Simple FSM 2 (synchronous reset) | [fsm2s](https://hdlbits.01xz.net/wiki/fsm2s) | [fsm2s.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm2s.v) |
+| 123 | Simple state transitions 3 | [fsm3comb](https://hdlbits.01xz.net/wiki/fsm3comb) | [fsm3comb.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm3comb.v) |
+| 124 | Simple one-hot state transitions 3 | [fsm3onehot](https://hdlbits.01xz.net/wiki/fsm3onehot) | [fsm3onehot.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm3onehot.v) |
+| 125 | Simple FSM 3 (asynchronous reset) | [fsm3](https://hdlbits.01xz.net/wiki/fsm3) | [fsm3.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm3.v) |
+| 126 | Simple FSM 3 (synchronous reset) | [fsm3s](https://hdlbits.01xz.net/wiki/fsm3s) | [fsm3s.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm3s.v) |
+| 127 | Design a Moore FSM | [exams/ece241_2013_q4](https://hdlbits.01xz.net/wiki/exams/ece241_2013_q4) | [exams_ece241_2013_q4.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_ece241_2013_q4.v) |
+| 128 | Lemmings 1 | [lemmings1](https://hdlbits.01xz.net/wiki/lemmings1) | [lemmings1.v](03_circuits/02_sequential_logic/05_finite_state_machines/lemmings1.v) |
+| 129 | Lemmings 2 | [lemmings2](https://hdlbits.01xz.net/wiki/lemmings2) | [lemmings2.v](03_circuits/02_sequential_logic/05_finite_state_machines/lemmings2.v) |
+| 130 | Lemmings 3 | [lemmings3](https://hdlbits.01xz.net/wiki/lemmings3) | [lemmings3.v](03_circuits/02_sequential_logic/05_finite_state_machines/lemmings3.v) |
