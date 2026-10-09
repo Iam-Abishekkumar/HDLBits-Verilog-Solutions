@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 130 / 182**
+**Uploaded: 140 / 182**
 
 ## Getting Started
 
@@ -208,3 +208,13 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 | 128 | Lemmings 1 | [lemmings1](https://hdlbits.01xz.net/wiki/lemmings1) | [lemmings1.v](03_circuits/02_sequential_logic/05_finite_state_machines/lemmings1.v) |
 | 129 | Lemmings 2 | [lemmings2](https://hdlbits.01xz.net/wiki/lemmings2) | [lemmings2.v](03_circuits/02_sequential_logic/05_finite_state_machines/lemmings2.v) |
 | 130 | Lemmings 3 | [lemmings3](https://hdlbits.01xz.net/wiki/lemmings3) | [lemmings3.v](03_circuits/02_sequential_logic/05_finite_state_machines/lemmings3.v) |
+| 131 | Lemmings 4 | [lemmings4](https://hdlbits.01xz.net/wiki/lemmings4) | [lemmings4.v](03_circuits/02_sequential_logic/05_finite_state_machines/lemmings4.v) |
+| 132 | One-hot FSM | [fsm_onehot](https://hdlbits.01xz.net/wiki/fsm_onehot) | [fsm_onehot.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm_onehot.v) |
+| 133 | PS/2 packet parser | [fsm_ps2](https://hdlbits.01xz.net/wiki/fsm_ps2) | [fsm_ps2.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm_ps2.v) |
+| 134 | PS/2 packet parser and datapath | [fsm_ps2data](https://hdlbits.01xz.net/wiki/fsm_ps2data) | [fsm_ps2data.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm_ps2data.v) |
+| 135 | Serial receiver | [fsm_serial](https://hdlbits.01xz.net/wiki/fsm_serial) | [fsm_serial.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm_serial.v) |
+| 136 | Serial receiver and datapath | [fsm_serialdata](https://hdlbits.01xz.net/wiki/fsm_serialdata) | [fsm_serialdata.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm_serialdata.v) |
+| 137 | Serial receiver with parity checking | [fsm_serialdp](https://hdlbits.01xz.net/wiki/fsm_serialdp) | [fsm_serialdp.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm_serialdp.v) |
+| 138 | Sequence recognition | [fsm_hdlc](https://hdlbits.01xz.net/wiki/fsm_hdlc) | [fsm_hdlc.v](03_circuits/02_sequential_logic/05_finite_state_machines/fsm_hdlc.v) |
+| 139 | Q8: Design a Mealy FSM | [exams/ece241_2013_q8](https://hdlbits.01xz.net/wiki/exams/ece241_2013_q8) | [exams_ece241_2013_q8.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_ece241_2013_q8.v) |
+| 140 | Q5a: Serial two's complementer (Moore FSM) | [exams/ece241_2014_q5a](https://hdlbits.01xz.net/wiki/exams/ece241_2014_q5a) | [exams_ece241_2014_q5a.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_ece241_2014_q5a.v) |
