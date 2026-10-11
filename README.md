@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 180 / 182**
+**Uploaded: 182 / 182**
 
 ## Getting Started
 
@@ -283,3 +283,5 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 |---|---------|---------|----------|
 | 179 | timer | [cs450/timer](https://hdlbits.01xz.net/wiki/cs450/timer) | [cs450_timer.v](06_cs450/cs450_timer.v) |
 | 180 | counter_2bc | [cs450/counter_2bc](https://hdlbits.01xz.net/wiki/cs450/counter_2bc) | [cs450_counter_2bc.v](06_cs450/cs450_counter_2bc.v) |
+| 181 | history_shift | [cs450/history_shift](https://hdlbits.01xz.net/wiki/cs450/history_shift) | [cs450_history_shift.v](06_cs450/cs450_history_shift.v) |
+| 182 | gshare | [cs450/gshare](https://hdlbits.01xz.net/wiki/cs450/gshare) | [cs450_gshare.v](06_cs450/cs450_gshare.v) |
