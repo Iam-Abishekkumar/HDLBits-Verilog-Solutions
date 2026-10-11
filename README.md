@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 160 / 182**
+**Uploaded: 170 / 182**
 
 ## Getting Started
 
@@ -248,3 +248,18 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 |---|---------|---------|----------|
 | 159 | Mux | [bugs_mux2](https://hdlbits.01xz.net/wiki/bugs_mux2) | [bugs_mux2.v](04_verification_reading_simulations/01_finding_bugs_in_code/bugs_mux2.v) |
 | 160 | NAND | [bugs_nand3](https://hdlbits.01xz.net/wiki/bugs_nand3) | [bugs_nand3.v](04_verification_reading_simulations/01_finding_bugs_in_code/bugs_nand3.v) |
+| 161 | Mux | [bugs_mux4](https://hdlbits.01xz.net/wiki/bugs_mux4) | [bugs_mux4.v](04_verification_reading_simulations/01_finding_bugs_in_code/bugs_mux4.v) |
+| 162 | Add/sub | [bugs_addsubz](https://hdlbits.01xz.net/wiki/bugs_addsubz) | [bugs_addsubz.v](04_verification_reading_simulations/01_finding_bugs_in_code/bugs_addsubz.v) |
+| 163 | Case statement | [bugs_case](https://hdlbits.01xz.net/wiki/bugs_case) | [bugs_case.v](04_verification_reading_simulations/01_finding_bugs_in_code/bugs_case.v) |
+
+## Verification: Reading Simulations / Build a circuit from a simulation waveform
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 164 | Combinational circuit 1 | [sim/circuit1](https://hdlbits.01xz.net/wiki/sim/circuit1) | [sim_circuit1.v](04_verification_reading_simulations/02_build_a_circuit_from_a_simulation_waveform/sim_circuit1.v) |
+| 165 | Combinational circuit 2 | [sim/circuit2](https://hdlbits.01xz.net/wiki/sim/circuit2) | [sim_circuit2.v](04_verification_reading_simulations/02_build_a_circuit_from_a_simulation_waveform/sim_circuit2.v) |
+| 166 | Combinational circuit 3 | [sim/circuit3](https://hdlbits.01xz.net/wiki/sim/circuit3) | [sim_circuit3.v](04_verification_reading_simulations/02_build_a_circuit_from_a_simulation_waveform/sim_circuit3.v) |
+| 167 | Combinational circuit 4 | [sim/circuit4](https://hdlbits.01xz.net/wiki/sim/circuit4) | [sim_circuit4.v](04_verification_reading_simulations/02_build_a_circuit_from_a_simulation_waveform/sim_circuit4.v) |
+| 168 | Combinational circuit 5 | [sim/circuit5](https://hdlbits.01xz.net/wiki/sim/circuit5) | [sim_circuit5.v](04_verification_reading_simulations/02_build_a_circuit_from_a_simulation_waveform/sim_circuit5.v) |
+| 169 | Combinational circuit 6 | [sim/circuit6](https://hdlbits.01xz.net/wiki/sim/circuit6) | [sim_circuit6.v](04_verification_reading_simulations/02_build_a_circuit_from_a_simulation_waveform/sim_circuit6.v) |
+| 170 | Sequential circuit 7 | [sim/circuit7](https://hdlbits.01xz.net/wiki/sim/circuit7) | [sim_circuit7.v](04_verification_reading_simulations/02_build_a_circuit_from_a_simulation_waveform/sim_circuit7.v) |
