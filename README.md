@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 170 / 182**
+**Uploaded: 180 / 182**
 
 ## Getting Started
 
@@ -263,3 +263,23 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 | 168 | Combinational circuit 5 | [sim/circuit5](https://hdlbits.01xz.net/wiki/sim/circuit5) | [sim_circuit5.v](04_verification_reading_simulations/02_build_a_circuit_from_a_simulation_waveform/sim_circuit5.v) |
 | 169 | Combinational circuit 6 | [sim/circuit6](https://hdlbits.01xz.net/wiki/sim/circuit6) | [sim_circuit6.v](04_verification_reading_simulations/02_build_a_circuit_from_a_simulation_waveform/sim_circuit6.v) |
 | 170 | Sequential circuit 7 | [sim/circuit7](https://hdlbits.01xz.net/wiki/sim/circuit7) | [sim_circuit7.v](04_verification_reading_simulations/02_build_a_circuit_from_a_simulation_waveform/sim_circuit7.v) |
+| 171 | Sequential circuit 8 | [sim/circuit8](https://hdlbits.01xz.net/wiki/sim/circuit8) | [sim_circuit8.v](04_verification_reading_simulations/02_build_a_circuit_from_a_simulation_waveform/sim_circuit8.v) |
+| 172 | Sequential circuit 9 | [sim/circuit9](https://hdlbits.01xz.net/wiki/sim/circuit9) | [sim_circuit9.v](04_verification_reading_simulations/02_build_a_circuit_from_a_simulation_waveform/sim_circuit9.v) |
+| 173 | Sequential circuit 10 | [sim/circuit10](https://hdlbits.01xz.net/wiki/sim/circuit10) | [sim_circuit10.v](04_verification_reading_simulations/02_build_a_circuit_from_a_simulation_waveform/sim_circuit10.v) |
+
+## Verification: Writing Testbenches
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 174 | Clock | [tb/clock](https://hdlbits.01xz.net/wiki/tb/clock) | [tb_clock.v](05_verification_writing_testbenches/tb_clock.v) |
+| 175 | Testbench1 | [tb/tb1](https://hdlbits.01xz.net/wiki/tb/tb1) | [tb_tb1.v](05_verification_writing_testbenches/tb_tb1.v) |
+| 176 | AND gate | [tb/and](https://hdlbits.01xz.net/wiki/tb/and) | [tb_and.v](05_verification_writing_testbenches/tb_and.v) |
+| 177 | Testbench2 | [tb/tb2](https://hdlbits.01xz.net/wiki/tb/tb2) | [tb_tb2.v](05_verification_writing_testbenches/tb_tb2.v) |
+| 178 | T flip-flop | [tb/tff](https://hdlbits.01xz.net/wiki/tb/tff) | [tb_tff.v](05_verification_writing_testbenches/tb_tff.v) |
+
+## CS450
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 179 | timer | [cs450/timer](https://hdlbits.01xz.net/wiki/cs450/timer) | [cs450_timer.v](06_cs450/cs450_timer.v) |
+| 180 | counter_2bc | [cs450/counter_2bc](https://hdlbits.01xz.net/wiki/cs450/counter_2bc) | [cs450_counter_2bc.v](06_cs450/cs450_counter_2bc.v) |
