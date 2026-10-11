@@ -2,7 +2,7 @@
 
 My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, added in HDLBits order.
 
-**Uploaded: 150 / 182**
+**Uploaded: 160 / 182**
 
 ## Getting Started
 
@@ -228,3 +228,23 @@ My Verilog solutions to the [HDLBits](https://hdlbits.01xz.net/) problem set, ad
 | 148 | Q2a: FSM | [exams/2012_q2fsm](https://hdlbits.01xz.net/wiki/exams/2012_q2fsm) | [exams_2012_q2fsm.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_2012_q2fsm.v) |
 | 149 | Q2b: One-hot FSM equations | [exams/2012_q2b](https://hdlbits.01xz.net/wiki/exams/2012_q2b) | [exams_2012_q2b.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_2012_q2b.v) |
 | 150 | Q2a: FSM | [exams/2013_q2afsm](https://hdlbits.01xz.net/wiki/exams/2013_q2afsm) | [exams_2013_q2afsm.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_2013_q2afsm.v) |
+| 151 | Q2b: Another FSM | [exams/2013_q2bfsm](https://hdlbits.01xz.net/wiki/exams/2013_q2bfsm) | [exams_2013_q2bfsm.v](03_circuits/02_sequential_logic/05_finite_state_machines/exams_2013_q2bfsm.v) |
+
+## Circuits / Building Larger Circuits
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 152 | Counter with period 1000 | [exams/review2015_count1k](https://hdlbits.01xz.net/wiki/exams/review2015_count1k) | [exams_review2015_count1k.v](03_circuits/03_building_larger_circuits/exams_review2015_count1k.v) |
+| 153 | 4-bit shift register and down counter | [exams/review2015_shiftcount](https://hdlbits.01xz.net/wiki/exams/review2015_shiftcount) | [exams_review2015_shiftcount.v](03_circuits/03_building_larger_circuits/exams_review2015_shiftcount.v) |
+| 154 | FSM: Sequence 1101 recognizer | [exams/review2015_fsmseq](https://hdlbits.01xz.net/wiki/exams/review2015_fsmseq) | [exams_review2015_fsmseq.v](03_circuits/03_building_larger_circuits/exams_review2015_fsmseq.v) |
+| 155 | FSM: Enable shift register | [exams/review2015_fsmshift](https://hdlbits.01xz.net/wiki/exams/review2015_fsmshift) | [exams_review2015_fsmshift.v](03_circuits/03_building_larger_circuits/exams_review2015_fsmshift.v) |
+| 156 | FSM: The complete FSM | [exams/review2015_fsm](https://hdlbits.01xz.net/wiki/exams/review2015_fsm) | [exams_review2015_fsm.v](03_circuits/03_building_larger_circuits/exams_review2015_fsm.v) |
+| 157 | The complete timer | [exams/review2015_fancytimer](https://hdlbits.01xz.net/wiki/exams/review2015_fancytimer) | [exams_review2015_fancytimer.v](03_circuits/03_building_larger_circuits/exams_review2015_fancytimer.v) |
+| 158 | FSM: One-hot logic equations | [exams/review2015_fsmonehot](https://hdlbits.01xz.net/wiki/exams/review2015_fsmonehot) | [exams_review2015_fsmonehot.v](03_circuits/03_building_larger_circuits/exams_review2015_fsmonehot.v) |
+
+## Verification: Reading Simulations / Finding bugs in code
+
+| # | Problem | HDLBits | Solution |
+|---|---------|---------|----------|
+| 159 | Mux | [bugs_mux2](https://hdlbits.01xz.net/wiki/bugs_mux2) | [bugs_mux2.v](04_verification_reading_simulations/01_finding_bugs_in_code/bugs_mux2.v) |
+| 160 | NAND | [bugs_nand3](https://hdlbits.01xz.net/wiki/bugs_nand3) | [bugs_nand3.v](04_verification_reading_simulations/01_finding_bugs_in_code/bugs_nand3.v) |
